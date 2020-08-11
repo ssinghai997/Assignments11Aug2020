@@ -1,0 +1,10 @@
+D:\DotNet-training\WindowsFormCalc\WindowsFormCalc\bin\Debug\WindowsFormCalc.exe.config
+D:\DotNet-training\WindowsFormCalc\WindowsFormCalc\bin\Debug\WindowsFormCalc.exe
+D:\DotNet-training\WindowsFormCalc\WindowsFormCalc\bin\Debug\WindowsFormCalc.pdb
+D:\DotNet-training\WindowsFormCalc\WindowsFormCalc\obj\Debug\WindowsFormCalc.csprojAssemblyReference.cache
+D:\DotNet-training\WindowsFormCalc\WindowsFormCalc\obj\Debug\WindowsFormCalc.Form1.resources
+D:\DotNet-training\WindowsFormCalc\WindowsFormCalc\obj\Debug\WindowsFormCalc.Properties.Resources.resources
+D:\DotNet-training\WindowsFormCalc\WindowsFormCalc\obj\Debug\WindowsFormCalc.csproj.GenerateResource.cache
+D:\DotNet-training\WindowsFormCalc\WindowsFormCalc\obj\Debug\WindowsFormCalc.csproj.CoreCompileInputs.cache
+D:\DotNet-training\WindowsFormCalc\WindowsFormCalc\obj\Debug\WindowsFormCalc.exe
+D:\DotNet-training\WindowsFormCalc\WindowsFormCalc\obj\Debug\WindowsFormCalc.pdb
